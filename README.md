@@ -1,7 +1,5 @@
 # Hi, I'm Victor Huang 👋
 
-**Product Manager @ Microsoft, Web Platform**
-
 🌐 Making the web a lot more fun for users & developers alike!
 
 ---
