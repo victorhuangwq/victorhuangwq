@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Victor Huang 👋
 
-<!--
-**victorhuangwq/victorhuangwq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Manager @ Microsoft, Web Platform**
 
-Here are some ideas to get you started:
+🌐 Making the web a lot more fun for users & developers alike!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Welcome to my GitHub profile! I’m passionate about creating delightful, innovative web experiences that empower both users and developers. As a Product Manager at Microsoft on the Web Platform, I work to shape the future of the web and make it more engaging and accessible for everyone.
+
+- 🚀 Mission: Making the web a lot more fun for users & developers alike!
+- 🏢 Currently: Product Manager at Microsoft
+- 🌍 Personal website: [experiencethis.world](https://www.experiencethis.world/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/victorhuangwq/)
+
+---
+
+Feel free to connect, explore my work, or reach out if you share a passion for web innovation!
