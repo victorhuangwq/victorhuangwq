@@ -9,5 +9,5 @@ I’m passionate about creating delightful, innovative web experiences that empo
 - 🏢 Currently: Product Manager at Microsoft
 - 🌍 Personal website: [experiencethis.world](https://www.experiencethis.world/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/victorhuangwq/)
-
+- 🐦 [X/Twitter](https://x.com/victorhuangwq)
 ---
